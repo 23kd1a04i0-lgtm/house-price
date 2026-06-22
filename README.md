@@ -37,12 +37,13 @@ House-Price-Prediction/
 ## Installation
 
 1. Clone the repository:
-   git clone https:https://github.com/yourusername/House-Price-Prediction.git
+   git clone https:https://github.com/23kd1a04i0
+   -igtm/House-Price-Prediction.git
 
-2. Navigate to the project folder:
+3. Navigate to the project folder:
    cd House-Price-Prediction
 
-3. Install required libraries:
+4. Install required libraries:
    pip install -r requirements.txt
 
 ## Usage
